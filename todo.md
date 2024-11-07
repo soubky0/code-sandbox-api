@@ -1,0 +1,5 @@
+- [ ] solve level 2
+- [ ] solve level 3
+- [ ] solve level 4
+- [ ] dockerize
+- [ ] document
